@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on database storing<br>🌱 I’m currently learning NodeJS, Express and PostgreSQL<br> 📫 How to reach me contact.ahmedmiled@gmail.com <br>
+🔭 I’m currently working on Real-time systems (Socket.IO) & backend development <br> 📫 How to reach me contact.ahmedmiled@gmail.com <br>
 👨‍💻 All of my projects are available at https://ahmed-miled-portfolio.netlify.app/
 
 
